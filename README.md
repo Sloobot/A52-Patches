@@ -12,7 +12,8 @@ This is a magisk module that patches/enable Secure Folder and more to work on ro
 > Note: This module should only be used on the Galaxy A52 (SM-A526B) running the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversible by simply removing the module in magisk.
 
 ### Troubleshooting:
-- Haven't encountered any issues, but if you face any, let me know, and ill add steps to fix the problem here.
+- In case something doesn't work, remove the module. It will revert everything to it's normal state.
+- In case you bootloop (Which is extremely unlikely), boot into safe mode and remove the module.
 
 ### Known bugs:
 - None. Please report, if you find any
