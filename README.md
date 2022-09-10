@@ -20,7 +20,9 @@ This is a magisk module that patches/enable Secure Folder and more to work on ro
 
 #### Current patches:
 - Fixed Secure Folder
-- Fixed Secure Wifi and Private Share
+- Fixed Secure Wifi
+- Fixed Private Share
 
 #### Coming in the future:
 - S-Health Fix
+- Smasung Pass Fix
