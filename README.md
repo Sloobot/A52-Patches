@@ -13,7 +13,7 @@ This is a magisk module that patches/enable Secure Folder and more to work on ro
 
 ### Troubleshooting:
 - In case something doesn't work, remove the module. It will revert everything to it's normal state.
-- In case you bootloop (Which is extremely unlikely), boot into safe mode and remove the module.
+- If you bootloop (Which is extremely unlikely), boot into safe mode and remove the module.
 
 ### Known bugs:
 - None. Please report, if you find any
