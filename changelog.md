@@ -1,8 +1,6 @@
-### Only for the Android 12 August security patch (A526BXXU1CVG6)
+### Only for the Android 12 October security patch (A526BXXU1CVH4)
 Running on devices with another patch can cause issues!
 
 ---
 <b> Changelog:</b>
-<br/>• First release.
-<br/>• Patched Secure Folder
-<br/>• Patched Secure Wifi & Private Share
+<br/>• Updated for October Patch
