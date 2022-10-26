@@ -3,4 +3,4 @@ Running on devices with another patch can cause issues!
 
 ---
 <b> Changelog:</b>
-<br/>• Updated for October Patch
+<br/>• Fixed S-Health (Thanks to @ShaDisNX255) 
