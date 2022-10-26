@@ -22,7 +22,7 @@ This is a magisk module that patches/enable Secure Folder and more to work on ro
 - Fixed Secure Folder
 - Fixed Secure Wifi
 - Fixed Private Share
+- Fixed S-Health (Thanks to @ShaDisNX255)
 
 #### Coming in the future:
-- S-Health Fix
 - Smasung Pass Fix
