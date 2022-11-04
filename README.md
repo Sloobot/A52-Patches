@@ -1,5 +1,7 @@
 ![a52banner](https://imgur.com/O4qKbcf.png)
 # A52-Patches
+# ⚠️ - No support given anymore. I bought a S22 Ultra and i will no longer be able to update this module. If you want to keep this project alive you can fork it and add your own updates, fixes etc.
+
 This is a magisk module that patches/enable Secure Folder and more to work on rooted phones. A52 5G Edition
 
 #### For more mods for the A52 also try: [A52-Hidden-Mods](https://github.com/Sloobot/A52-Hidden-Mods/)
